@@ -1,0 +1,11 @@
+[package]
+name = "static_option"
+description = "An option type that is statically known to be Some or None"
+version = "0.1.0"
+edition = "2021"
+authors = ["Sebastian Schmidt <isibboi@gmail.com>"]
+license = "BSD-2-Clause"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
